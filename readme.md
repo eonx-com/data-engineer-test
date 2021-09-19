@@ -4,6 +4,7 @@ This is the data set you will be working with, it has been prepared to be ingest
 It is a simplified model of a small subset of the data that you will be working with at EonX.
 
 There are two schemas representing two separate projects.
+
 Key terms:
 - rewards - the EonX rewards platform
 - payment_gateway - the EonX payments platform
